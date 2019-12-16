@@ -58,7 +58,7 @@
                 </div>
                 
                 <!--Title Banner-->
-                <div class="hero-image" stlye="background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('../images/IMG_2453.jpg');">
+                <div class="hero-image" stlye="background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('../images/sinapah.jpg');">
                     <div class="hero-text">
                         <p><b>Politeuma</b></p>
                         <p style="font-size:4.5vw">Daniel's Blog</p>
