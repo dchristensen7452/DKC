@@ -3,10 +3,11 @@
 
 <blog>
     <post>
-        <title>Localhost for Windows 1</title>
+        <title>Localhost for Windows</title>
         <published>January 30, 2019</published>
         <number>1</number>
         <category>Data Publication</category>
+        <link>WindowsLocalhost.html</link>
         <blurb>This week we are learning how to setup and run a website from scratch. No safety net, 
             no WordPress, no Divi Builder. Just a text editor.</blurb>
         <body>This week we are learning how to setup and run a website from scratch. No safety net, no WordPress, no Divi Builder. Just a text editor.
