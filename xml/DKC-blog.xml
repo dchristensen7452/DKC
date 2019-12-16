@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../xslt/blog-home.xsl"?> 
+
 <blog>
     <post>
         <title>Localhost for Windows 11</title>
         <published>January 28, 2019</published>
         <number>11</number>
         <category>Data Publication</category>
-        <blurb>This week we are <b>learning</b> how to setup and run a website from scratch. No safety net, 
+        <link>blog-template.html</link>
+        <blurb>This week we are learning how to setup and run a website from scratch. No safety net, 
             no WordPress, no Divi Builder. Just a text editor.</blurb>
         <body>This week we are learning how to setup and run a website from scratch. No safety net, no WordPress, no Divi Builder. Just a text editor.
             Since I am the only one in the class who seems to use a PC rather than a Mac, I will outline the steps needed to setup a PC to host a local server. Actually, it’s pretty simple to do.
@@ -37,7 +39,7 @@
         <published>January 28, 2019</published>
         <number>10</number>
         <category>Data Publication</category>
-        <blurb>This week we are <b>learning</b> how to setup and run a website from scratch. No safety net, 
+        <blurb>This week we are learning how to setup and run a website from scratch. No safety net, 
             no WordPress, no Divi Builder. Just a text editor.</blurb>
         <body>This week we are learning how to setup and run a website from scratch. No safety net, no WordPress, no Divi Builder. Just a text editor.
             Since I am the only one in the class who seems to use a PC rather than a Mac, I will outline the steps needed to setup a PC to host a local server. Actually, it’s pretty simple to do.
@@ -161,7 +163,7 @@
         <published>January 28, 2019</published>
         <number>6</number>
         <category>Data Publication</category>
-        <blurb>This week we are <b>learning</b> how to setup and run a website from scratch. No safety net, 
+        <blurb>This week we are learning how to setup and run a website from scratch. No safety net, 
             no WordPress, no Divi Builder. Just a text editor.</blurb>
         <body>This week we are learning how to setup and run a website from scratch. No safety net, no WordPress, no Divi Builder. Just a text editor.
             Since I am the only one in the class who seems to use a PC rather than a Mac, I will outline the steps needed to setup a PC to host a local server. Actually, it’s pretty simple to do.

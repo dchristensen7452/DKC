@@ -74,13 +74,16 @@
                         <div class="d-none d-md-block col-md-1"></div>
                         <!-- Post Blurb -->
                         <div class="col">                           
-                            <xsl:for-each select="blog/post[position() &gt; 5 and position() &lt; 10]">       
+                            <xsl:for-each select="blog/post">       
                                 <div class="post">
-                                    <a href="index.html">
+                                    <xsl:element name="a">
+                                        <xsl:attribute name="href">
+                                            ../blogs/<xsl:value-of select="link"/>
+                                        </xsl:attribute>
                                         <p class="post-title">
                                             <xsl:value-of select="title"/>
                                         </p>
-                                    </a>
+                                    </xsl:element>
                                     <p class="post-meta">
                                         <span class="post-published">
                                             <xsl:value-of select="published"/>
@@ -100,17 +103,17 @@
                         
                         <div class="d-none d-md-block col-md-2"></div>
                         
-                        <!-- Latest Post -->
+                        <!-- Latest Post 
                         <div class="col-3">
-                            <p class="post-latest">Latest Posts</p>
-                                <xsl:for-each select="blog/post[position() &lt; 6]">
+                            <p class="post-latest">Featured Posts</p>
+                                <xsl:for-each select="blog/post">
                                     <a href="#">
                                         <p class="post-title-grab">
                                         <xsl:value-of select="title"/>
                                         </p>
                                     </a>
                                 </xsl:for-each>
-                        </div>
+                        </div> -->
                         
                         <div class="d-none d-md-block col-md-1"></div>
                         
@@ -118,13 +121,14 @@
                 </div>
                 
                 
-                
+<!-- Multiple Pages                
 <div class="centered">  
     <p>
         <button type="button" class="btn btn-outline-secondary"><i class="fas fa-arrow-left"></i> Prev</button>
         <button type="button" class="btn btn-outline-secondary">Next <i class="fas fa-arrow-right"></i> </button>
     </p>  
 </div>
+-->
                 
                 
                 
