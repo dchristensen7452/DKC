@@ -44,7 +44,7 @@
 
 .hero-image {
   margin-top:60px;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url("https://www.dkchristensen.com/images/IMG_2453.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url("../images/IMG_2453-reduced.jpg");
   width:100%;
   background-position: center;
   background-repeat: no-repeat;
