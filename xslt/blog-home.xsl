@@ -148,7 +148,7 @@
                             </div>
                             <div class="col-md">
                                 <p><a class="anchor" href="mailto:dchristensen7452@gmail.com">Daniel K. Christensen</a></p>
-                                <p>Copyright 2019</p>
+                                <p>Copyright</p>
                             </div>
                             <div class="col-md">
                                 <p><a class="anchor" href="../index.html">Home</a></p>
