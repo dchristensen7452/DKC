@@ -21,7 +21,7 @@
                 <!--Navbar-->
                 <div class="container">
                     <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
-                        <a class="navbar-brand" href="index.html">
+                        <a class="navbar-brand" href="../index.html">
                             <img src="../images/IMG_2429%20-%20Copy.JPG" class="align-top" style="width: 30px; width: 30px;"></img>
                         </a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
