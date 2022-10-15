@@ -223,6 +223,16 @@ li {
   transform: scale(1.05);
 }
 
+.cardChange {
+    opacity: 1.0;
+    transition: 0.5s ease;
+}
+
+.cardChange:hover {
+    opacity: 0.5;
+    transition: 0.5s ease;
+}
+
 
 /* Change Font-Size for Device Screens */
 /* Extra small devices (phones, up to 699px) */
