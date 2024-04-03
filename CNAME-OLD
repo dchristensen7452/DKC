@@ -2,3 +2,9 @@ EDITEDOUT
 HOST: www
 Value: dchristensen7452.github.io.
 W W W dot dkchristensen dot C O M
+
+
+URL REdirect Record
+Host: @
+Value: http://www.dkchristensen.com/
+Unmasked
